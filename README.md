@@ -1,6 +1,8 @@
 # Hello Axum on Cloud Run
 
-An example of deploying a REST API using Rust and Axum web framework to [Cloud Run](https://cloud.google.com/run).
+An example of deploying a REST API using Rust and Axum web framework to [GCP Cloud Run](https://cloud.google.com/run).
+
+See more: [Cloud Run で Rust / Axum 製 Web アプリケーションを動かす](https://zenn.dev/collabostyle/articles/89a9171ab0c0e5)
 
 ## Deploy
 
